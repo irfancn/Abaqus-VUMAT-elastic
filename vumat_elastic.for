@@ -32,7 +32,7 @@ C
       character*80 cmname
       integer k, k1
 C inputs
-      real*8 e, nu, dens, sigy0, mu, alamda, dWork
+      real*8 e, nu, mu, alamda
 
       e = props(1)                  ! Young's modulus
       nu = props(2)                 ! poisson's ratio
