@@ -1,6 +1,6 @@
 c ======================================================================
 c User Subroutine UMAT for Abaqus linear elastic material
-c By Irfan Habeeb CN (Technion - IIT)
+c By Irfan Habeeb CN (PhD, Technion - IIT)
 c ======================================================================
       subroutine vumat(
 C Read only -
